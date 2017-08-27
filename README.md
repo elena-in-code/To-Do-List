@@ -1,5 +1,5 @@
 <h1><a href="https://elena-in-code.github.io/To-Do-List/"><strong>To-Do-List</strong></a></h1>
-<img src="https://user-images.githubusercontent.com/30567608/28773873-96b95e48-75eb-11e7-9d35-6aea2e0cc9c9.PNG">
+<img src="https://user-images.githubusercontent.com/30567608/29747992-3b7f928c-8b0c-11e7-9838-ae95f08a3ead.gif">
 <p>Todo List App is a useful app that will help you create new lists, because some of us love lists!</p>
 <p>Based on the exercise part of the Udemy course "The Web Developer Bootcamp" by Colt Steele.</p>
 <h3>Technologies used: </h3>
